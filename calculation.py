@@ -59,7 +59,7 @@ elif opr==6:
 elif opr==7:
     print("\nEnter the value(Rad):")
     val1=int(input())
-    print("\nCos:",math.cos(val1))
+    print("\nCos:",math.cos(val1)))
 
 #mohasebat tan
 elif opr==8:

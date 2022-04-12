@@ -71,6 +71,6 @@ elif opr==8:
 elif opr==9:
     print("\nEnter the value(Rad):")
     val1=int(input())
-    cot=1/(math.tan(val1))
+    cot=(1/(math.tan(val1))
     print("\nCot:",cot)
     
